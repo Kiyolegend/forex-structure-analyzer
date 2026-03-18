@@ -33,17 +33,17 @@ A Streamlit-based web application that analyzes forex market structure using mul
 
 
 <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/b781bc7c-09cc-418d-ad01-894474d9e320" />
-<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/b781bc7c-09cc-418d-ad01-894474d9e320" />
+
 
 
 ### Main Analysis
 <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/5d1cf888-bea2-4e48-a7f5-f0f3a40d0e07" />
-<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/5d1cf888-bea2-4e48-a7f5-f0f3a40d0e07" />
+
 
 
 ### Chart View
 <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/9c717e57-18cd-4c5b-bb50-7025d999e5f1" />
-<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/9c717e57-18cd-4c5b-bb50-7025d999e5f1" />
+
 
 ![Chart](screenshots/chart.png)
 
